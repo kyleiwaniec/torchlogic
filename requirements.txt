@@ -1,0 +1,10 @@
+pytorch_optimizer==3.8.0
+xgboost==2.1.4
+torchvision==0.23
+pandas==2.3.1
+numpy==1.26.4
+torch==2.8.0+cu128
+sklearn==1.6.1
+optuna==2.10.1
+scipy==1.7.1
+matplotlib==3.4.3
